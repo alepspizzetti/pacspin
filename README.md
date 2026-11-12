@@ -18,7 +18,7 @@ core        130,2 KiB  1,2 MiB/s 00:00 [━━━━━━━━━━━━━�
 | Item | Notes |
 |---|---|
 | Arch-based distro | Arch, CachyOS, EndeavourOS, Manjaro. Needs `pacman`; `paru` is optional |
-| `fish` 3.4+ | Uses `path`, which was added in 3.5, so 3.5+ is safest |
+| `fish` 3.5+ | Uses the `path` builtin, added in 3.5 |
 | `python3` | Standard library only, no pip packages |
 | Font with `ᗧ ᗣ ● · ━` | Most Nerd Fonts and terminals render them. If you see boxes, change the font |
 | `ILoveCandy` in `/etc/pacman.conf` | Keep it enabled. `pacspin` rewrites the bar that option generates |
